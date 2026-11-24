@@ -1,0 +1,27 @@
+AGORÀ — COME TRASFORMARLA IN UN'APP SUL TELEFONO
+
+Questa cartella è l'app completa. Per installarla serve metterla online
+a un indirizzo tuo (gratis) e poi aggiungerla alla schermata Home.
+
+1) METTILA ONLINE CON GITHUB PAGES (gratis, dura per sempre)
+   - Apri github.com e crea un account (se non ce l'hai).
+   - In alto a destra: "+" > "New repository". Nome: agora. Lascia "Public". Crea.
+   - Nella pagina del repository: "Add file" > "Upload files".
+     Seleziona TUTTI i file di questa cartella (non la cartella stessa) e premi "Commit changes".
+   - Vai in "Settings" > "Pages". In "Branch" scegli "main" e "/ (root)", poi "Save".
+   - Dopo uno o due minuti l'app è online a:
+     https://IL-TUO-NOME-UTENTE.github.io/agora/
+
+2) INSTALLALA
+   - iPhone: apri l'indirizzo con Safari > tasto Condividi > "Aggiungi alla schermata Home".
+   - Android: apri l'indirizzo con Chrome > menu ⋮ > "Installa app" (o "Aggiungi a schermata Home").
+   Da quel momento si apre a schermo intero, con la sua icona, e funziona anche offline.
+
+3) AGGIORNARLA
+   - Quando ricevi una nuova versione, ricarica i file su GitHub ("Add file" > "Upload files"):
+     l'app installata si aggiorna da sola alla prossima apertura con internet.
+
+DA SAPERE
+   - Progressi, salvati e ripassi restano sul telefono, in questa app.
+   - Il tasto "Di più" apre Claude con la domanda già scritta.
+   - Il feed infinito scritto da Claude funziona solo nella versione aperta dentro Claude.
