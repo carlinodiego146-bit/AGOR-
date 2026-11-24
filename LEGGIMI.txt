@@ -25,3 +25,5 @@ DA SAPERE
    - Progressi, salvati e ripassi restano sul telefono, in questa app.
    - Il tasto "Di più" apre Claude con la domanda già scritta.
    - Il feed infinito scritto da Claude funziona solo nella versione aperta dentro Claude.
+
+Aggiornamenti: pubblicati direttamente da Claude su questo repository.
